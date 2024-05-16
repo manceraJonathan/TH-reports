@@ -1,0 +1,14 @@
+{
+    "name": "jonathan-mancera/reports-th",
+    "description": "Generador de reportes XLSX para la plataforma de Talento Humano",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Jonathan Mancera",
+            "email": "jonathan.mancera@holdingvml.net"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.1"
+    }
+}
